@@ -21,6 +21,7 @@ More Commands Coming In Future Updates!
 * Requirements Installation - For All Platforms
 
 Install Python  [Necessary] - https://www.python.org/downloads/
+
 Install MassCan [Optional]  - https://github.com/robertdavidgraham/masscan/releases
 
 * Modules Installation - For all Platforms
