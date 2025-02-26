@@ -45,3 +45,12 @@ You can report us bugs through github or through Discord
 Discord Id - darkxvibe
 Discord Server - Currently Under Development [Soon]
 
+# Contribution
+
+Contributions are welcomed through github commits only. Contributions By Editing, Renaming isnt allowed.
+You can also contribute to solve the bugs.
+
+# License
+
+This Tool Is Maded By DEVIL999X and Is the owner of the tool. There should be not re distributing , editing, renaming of the tool without written permission of owner. If Any rules are broken Will lead To Huge Loss of yours.
+
