@@ -9,7 +9,7 @@
 
 import os
 import platform
-from commands import scanner, help,  server, bot, info
+from commands import scanner, help,  server, info
 
 # Clears the console screen
 def clear_screen():
