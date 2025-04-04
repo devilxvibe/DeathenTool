@@ -1,1 +1,0 @@
-# Nmap 7.95 scan initiated Wed Feb 26 12:46:10 2025 as: nmap -p 1-25565 --open -oG nmap_results.txt lapata.ddns.net
