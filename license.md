@@ -1,20 +1,31 @@
 # License 
 
-* CopyRight
-  
-This tool is maded By Devil999x or devilxvibe and has all rights to edit,discontinue the tool. Devil999x Contains all Copyright Contents.
-Deathen Tool should not be distributed,renamed,edited without the Written permission of owner.
-Github contributions are welcomed through github commits only.
-Forking is not allowed without permission of administrator or owner.
-Reselling of Tool Is Not Allowed
-Tool should not be hyped with your name
+# Terms And Conditions -
 
-* CopyRight Broken Steps
+The Tool is Developed by DarkVibeUnknown and especially has All The Rights of DeathenTool.
+This Tool Is Contructed for Ethical Pentesting.
+Only use DeathenTool on systems you own or have explicit permission to test.
+Do not use DeathenTool to cause damage to any systems or networks.
+Do not attempt to gain unauthorized access to any networks, systems, or data.
+Do not use DeathenTool to violate any applicable laws or regulations.
+In no event will the author of DeathenTool be liable for any damages, including, without limitation, direct, indirect, special, incidental, or consequential damages arising out of the use or inability to use DeathenTool.
 
-If any Rules And Regulations are broken will lead to Heavy Loss.
-We hope you will Follow us and make our tool more better.
-If tool is selled with money This will also come against our policies.
+The author of DeathenTool takes no responsibility for any misuse of this software or damage caused by improper usage.
 
-Note - Please Read Readme.md and License.md before using tool
+# Educational Purpose Acknowledgement -
 
+DeathenTool is developed for educational purposes only.
+By downloading, installing, or using DeathenTool, you acknowledge that you have read, understood, and agree to be bound by these Terms & Conditions.
+By downloading, installing, or using DeathenTool/DeathProxy, you acknowledge that We Will Not Harm any machine/Server.
 
+Thanks For Reading Our License
+
+# CopyRight
+
+The CopyRight Of DeathenTool/DeathProxy claims to DarkVibeUnknown. No Other Living Organism Has Permission to edit/Rename It.
+
+Note -
+
+Partners Also Have Contribution And Partial Copyright Claim Of DeathenTool.
+
+  Copyright Claim Deathentool © [2024-2050] Stamped
